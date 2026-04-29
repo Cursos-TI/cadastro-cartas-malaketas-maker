@@ -435,8 +435,8 @@ int main(){
     valor2_carta1 = superpoder1;
     valor2_carta2 = superpoder2;
     }
-    float soma_carta1 = valor1_carta1 + valor2_carta1;
-    float soma_carta2 = valor1_carta2 + valor2_carta2;
+    soma_carta1 = valor1_carta1 + valor2_carta1;
+    soma_carta2 = valor1_carta2 + valor2_carta2;
     // ====================== COMPARAÇÃO FINAL DOS DOIS ATRIBUTOS ======================
     printf("\n=== VENCEDOR GERAL ===\n");
     
